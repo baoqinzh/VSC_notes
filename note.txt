@@ -3,3 +3,4 @@
 3. Ctrl + Shift + F find in files
 4. F5 start Debugging
 5. Ctrl + ~ Toggle terminal
+6. Ctrl + o open file
