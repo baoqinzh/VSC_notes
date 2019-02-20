@@ -4,4 +4,23 @@
 4. F5 start Debugging
 5. Ctrl + ~ Toggle terminal
 6. Ctrl + o open file
-7. TODO
+7. find will look in the open current file
+8. find in files will look at all the files in the directory
+9. Emmet
+10. Ctrl + \ split editor
+11.Ctrl + = Zoom in
+12. Ctrl + - Zoom out
+13. bracket , Ctrl + Shift + \ go to the begin or end of bracket
+
+cursors:
+1.select all the occurents Ctrl + Shift + L 
+2.add cursor above ALt + Ctrl + up arrow
+3.add cursor below Alt + Ctrl + down arrow
+4. add next cursor Ctrl + D
+
+snippet
+1.location:
+
+preferences:
+1.Ctrl + Shift + p preferences oepn user settings
+2.
