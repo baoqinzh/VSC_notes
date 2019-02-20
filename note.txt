@@ -23,4 +23,7 @@ snippet
 
 preferences:
 1.Ctrl + Shift + p preferences oepn user settings
+
+keybindings
+1. Ctrl + k + Ctrl + s open the shortcuts
 2.
