@@ -22,7 +22,7 @@ snippet
 1.location:
 
 preferences:
-1.Ctrl + Shift + p preferences oepn user settings
+1.Ctrl + Shift + p preferences open user settings
 
 keybindings
 1. Ctrl + k + Ctrl + s open the shortcuts
